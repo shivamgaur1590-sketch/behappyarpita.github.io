@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy New Year Arpita 💖</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: linear-gradient(135deg, #ffdde1, #ee9ca7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            background: white;
+            padding: 30px 35px;
+            border-radius: 18px;
+            text-align: center;
+            max-width: 420px;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+
+        h1 {
+            color: #ff5e78;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #333;
+            margin-top: 0;
+        }
+
+        p {
+            color: #555;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .heart {
+            font-size: 30px;
+            margin: 15px 0;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.15); }
+            100% { transform: scale(1); }
+        }
+
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Hey Arpita 🌸</h1>
+        <h2>Happy New Year 2026 ✨</h2>
+
+        <div class="heart">💖</div>
+
+        <p>
+            I’m really sorry I missed wishing you on time.<br>
+            It wasn’t intentional at all.
+        </p>
+
+        <p>
+            I just wanted to say that I’m grateful to have you as my maybe kuchupuchu,
+            and I hope this new year brings you lots of smiles, peace,
+            and beautiful moments.
+        </p>
+
+        <p>
+            You deserve a year full of happiness 💫
+        </p>
+
+        <div class="footer">
+            — from someone who cares 🙂
+        </div>
+    </div>
+
+</body>
+</html>
